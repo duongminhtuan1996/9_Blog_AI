@@ -1,0 +1,12 @@
+- title: Module 1
+  pages:
+    - title: Overview
+    - title: New
+
+- title: Module 2
+  pages:
+    - title: Hello World
+
+- title: Module 3
+  pages:
+    - title: Modules
