@@ -34,7 +34,7 @@ params:
   project:
     # To omit the startYear, put a ~ in its place.
     startYear: 2022
-    presentYear: 2024
+    presentYear: 2025
     github:
       repo: duongminhtuan1996/9_Blog_AI
     themeColor:
@@ -43,10 +43,10 @@ params:
 
   author:
     name: TuanDuong
-    url: https://github.com/duongminhtuan1996/9_Blog_AI
+    url: https://www.facebook.com/profile.php?id=100004544196285
 
   home:
-    heading: Your next
-    headingSegment2: Theme
-    description: Description
+    heading: My Blog
+    headingSegment2: AI
+    description: This is a blog about learning and researching about AI
     getStartedPath: docs/
